@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(146, 0, 0);
+}
+
+/* a{
+    color:white;
+} */
+.btn.dc{
+    color:white;
+    background-color: #7299ee;
+}
+.btn.dc:hover{
+    color:#7299ee;
+    background-color: white;
+}
+
+.btn.twit{
+    color: white;
+    background-color: black;
+}
+.btn.twit:hover{
+    color: black;
+    background-color: white;
+}
+
+.btn.ig{
+    color:white;
+    background-color: #cd486b;
+}
+.btn.ig:hover{
+    color:#cd486b;
+    background-color: white;
+}
